@@ -6,7 +6,7 @@ El curso “Análisis de datos de ciencias genómicas usando R” está enfocado
 
 El propósito general es proporcionar a los asistentes los conceptos y habilidades básicas de herramientas bioinformáticas para el manejo y análisis de datos genómicos basadas en lenguaje R.
 
-En este repositorio se encuentran los directorios de trabajo para el curso "Análisis de datos en Ciencias genómicas con R" del Programa de Actualización en Salud Pública y Epidemiología en su edición 2023
+En este repositorio se encuentran los directorios de trabajo para el curso "Análisis de datos en Ciencias genómicas con R" del Programa de Actualización en Salud Pública y Epidemiología en su edición 2025
 
 Los estudiantes inscritos pueden acceder a los datos para cada una de las sesiones sincrónicas.
 
